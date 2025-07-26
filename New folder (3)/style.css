@@ -1,0 +1,21 @@
+body {
+    background-color: #22223b;
+    color: #f2e9e4;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+h1, h2, h3, h4 {
+    color: #9a8c98;
+}
+a {
+    color: #c9ada7;
+    text-decoration: none;
+}
+a:hover {
+    color: #f2e9e4;
+    background-color: #4a4e69;
+}
+iframe {
+    border: 3px solid #9a8c98;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
